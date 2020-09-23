@@ -1,5 +1,7 @@
 # SSD: Single Shot MultiBox Detector
 
+## key edit Makefile.config and Makefile file to run the caffe model
+
 [![Build Status](https://travis-ci.org/weiliu89/caffe.svg?branch=ssd)](https://travis-ci.org/weiliu89/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
